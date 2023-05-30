@@ -1,0 +1,29 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line id="svg_2" y2="42.879" y1="41.005" x2="6.461" x1="10.2" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_3" y2="40.073" y1="43.811" x2="7.394" x1="9.267" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_5" y2="44.748" y1="42.874" x2="54.05" x1="57.788" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_6" y2="41.942" y1="45.68" x2="54.982" x1="56.856" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_8" y2="49.832" y1="48.787" x2="11.599" x1="13.685" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_9" y2="48.266" y1="50.352" x2="12.12" x1="13.165" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_11" y2="8.149" y1="7.104" x2="39.422" x1="41.508" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_12" y2="6.583" y1="8.67" x2="39.943" x1="40.988" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_14" y2="8.147" y1="7.101" x2="19.364" x1="21.45" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_15" y2="6.581" y1="8.667" x2="19.884" x1="20.929" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_17" y2="49.832" y1="48.787" x2="49.93" x1="52.016" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_18" y2="48.266" y1="50.352" x2="50.45" x1="51.495" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <rect id="svg_20" y="13.48457" x="15.092" width="33.817" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" height="26.962" fill="none"/>
+  <line id="svg_21" y2="50.371" y1="40.591" x2="20.407" x1="32.277" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <polyline id="svg_22" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" points="    44.148,50.371 32.277,40.591 32.277,47.29   " fill="none"/>
+  <line id="svg_23" y2="22.548" y1="22.548" x2="41.671" x1="22.329" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_24" y2="25.589" y1="25.589" x2="41.671" x1="22.329" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_25" y2="28.631" y1="28.631" x2="41.671" x1="22.329" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+  <line id="svg_26" y2="31.673" y1="31.673" x2="41.671" x1="22.329" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#0c2399" fill="none"/>
+ </g>
+</svg>
